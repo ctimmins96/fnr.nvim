@@ -1,0 +1,4 @@
+# FNR.NVIM Plugin
+
+## Setup
+
